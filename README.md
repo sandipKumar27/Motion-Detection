@@ -1,0 +1,1 @@
+Motion Detection , Thermal Detection
